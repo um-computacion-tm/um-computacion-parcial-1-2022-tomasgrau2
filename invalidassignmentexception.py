@@ -1,0 +1,2 @@
+class InvalidAssignmentException(Exception):
+    pass
